@@ -1,16 +1,58 @@
-## Hi there 👋
+### Hi, I'm Mohana 👋
 
-<!--
-**mohanavm06/mohanavm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python & AI Developer Student | Data Analyst | Stockholm, Sweden**
 
-Here are some ideas to get you started:
+I'm currently studying **System Development with Python and AI at Lexicon**, building my skills in backend development, databases, APIs, and AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have professional experience in data analytics, operational reporting and business intelligence, including working with SQL, Power BI and Excel.
+
+I'm interested in combining my analytical experience with software development to build useful, data-driven applications.
+
+**Currently preparing for APL (internship) opportunities in Sweden in 2027.**
+
+### Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Zabito Operations & Revenue Analytics](https://github.com/mohanavm06/zabito-operations-revenue-analytics) | Operational and revenue analysis for hostel management | Data Analytics, SQL |
+| [Book Club Library](https://github.com/VictorSago/BookClub) | Collaborative library management system with database design, Open Library integration, and borrowing/returning features | Python, FastAPI, SQLite, REST API |
+| [Lexicon Python & AI Labs](https://github.com/mohanavm06/Lexicon_PythonAI_Labs) | Programming exercises and practical learning in Python, SQL, data analysis and development | Python, Pandas, SQL, Git |
+
+### Technical Skills
+
+**Programming:** Python, SQL
+
+**Data Analytics:** Pandas, NumPy, Power BI, Excel
+
+**Backend & Databases:** FastAPI, REST APIs, SQLite, MongoDB fundamentals
+
+**Development Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+**Methodologies:** Agile, Scrum
+
+### Currently Learning
+
+- Python backend and API development
+- Data analysis and visualization
+- Machine learning and deep learning
+- LLM fundamentals and prompt engineering
+- Docker, Azure and CI/CD
+- AI agents and automation
+- AI security, GDPR and EU AI Act
+
+### Career Interests
+
+I'm interested in opportunities involving:
+
+- Junior Python Development
+- Data Analytics and Business Intelligence
+- AI and Data Engineering
+- Backend Development and API Integration
+
+### Location
+
+Stockholm, Sweden
+
+### Connect
+
+[My GitHub](https://github.com/mohanavm06)
