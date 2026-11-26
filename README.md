@@ -15,14 +15,16 @@ I'm interested in combining my analytical experience with software development t
 | Project | Description | Technologies |
 |---|---|---|
 | [Zabito Operations & Revenue Analytics](https://github.com/mohanavm06/zabito-operations-revenue-analytics) | Operational and revenue analysis for hostel management | Data Analytics, SQL |
+| (Sports Badminton Court Booking System)(https://github.com/mohanavm06/Lexicon_PythonAI_Labs/tree/main/Python/Python_Project) |Command-line booking system for courts for badminton, with the booking rules to book multiple courts | Python, OOP
 | [Book Club Library](https://github.com/VictorSago/BookClub) | Collaborative library management system with database design, Open Library integration, and borrowing/returning features | Python, FastAPI, SQLite, REST API |
+| (Flight Delay Analysis Project)(https://github.com/mohanavm06/Lexicon_PythonAI_Labs/tree/main/Project_Data_Visualisation)|I explored the datasets, performed data cleaning, handled missing values, merged datasets, and created new columns|Pandas, NumPy, Matplotlib, Jupyter Notebook, VS Code|
 | [Lexicon Python & AI Labs](https://github.com/mohanavm06/Lexicon_PythonAI_Labs) | Programming exercises and practical learning in Python, SQL, data analysis and development | Python, Pandas, SQL, Git |
 
 ### Technical Skills
 
 **Programming:** Python, SQL
 
-**Data Analytics:** Pandas, NumPy, Power BI, Excel
+**Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
 
 **Backend & Databases:** FastAPI, REST APIs, SQLite, MongoDB fundamentals
 
@@ -33,7 +35,7 @@ I'm interested in combining my analytical experience with software development t
 ### Currently Learning
 
 - Python backend and API development
-- Data analysis and visualization
+- Data analysis and visualisation
 - Machine learning and deep learning
 - LLM fundamentals and prompt engineering
 - Docker, Azure and CI/CD
